@@ -1,0 +1,140 @@
+# Dropbox-metodi
+
+## Dropboxin autorisointi
+
+Jotta Dropboxista saisi siirrettyä kirjoja lukulaitteeseen, pitää lukulaitteen kautta ensin autorisoida Dropbox-yhteys.
+
+Paina seuraavassa järjestyksessä lukulaitteen kuvakkeita:
+
+1. Apps
+
+![](images2/WhatsApp.png)
+
+<br><br>
+
+2. Settings
+
+
+![](images2/WhatsApp%202.png)
+<br><br>
+3. Accounts and synchronization
+
+
+
+![](images2/WhatsApp%203.png)
+
+<br><br>
+4. Dropbox PocketBook
+
+![](images2/WhatsApp%204.png)
+<br><br>
+
+Avautuu näkymä, jossa saat tehtyä autorisoinnin. Kun autorisointi on valmis, edellä mainittujen kuvakkeiden takaa avautuukin nyt seuraava näkymä (folderin nimi voi olla hiukan erilainen omassa laitteessasi):
+
+![](images2/WhatsApp%205.png)
+
+Nyt kaiken pitäisi olla kunnossa kirjojen siirtoa varten.
+
+## Lainaaminen ja siirto
+
+1.  Loggaa iPhonen Safari-selaimella Vaski Overdriven sivuille. Etsi kirja jonka haluat lainata. Luonnollisestikin tarvitset Vaskin tunnukset.
+
+![](images/1.png)
+<br><br>
+
+2.  Paina "lainaa" ja vielä "lainaa".
+
+![](images/2.png)
+<br><br>
+
+
+3.  Seuraavaksi valitaan haluttu laina-aika ja painetaan taas "lainaa".
+
+![](images/3.png)
+<br><br>
+
+
+4.  Valitaan "Lataa EPUB-kirja".
+
+![](images/4.png)
+<br><br>
+
+
+5.  Valitse "Download".
+
+![](images/5.png)
+<br><br>
+
+
+6.  Seuraavaksi painetaan iPhonessa Safari-näkymän alhaalla nuoleen.
+
+![](images/6.png)
+<br><br>
+
+
+7.  Valitaan "Downloads".
+
+![](images/7.png)
+<br><br>
+
+
+8.  Valitaan kirja, joka tahdotaan lukulaitteeseen siirtää.
+
+![](images/8.png)
+<br><br>
+
+
+9.  Avautuu näkymä, jossa painetaan share-symboliin.
+
+![](images/9.png)
+<br><br>
+
+
+10. Painetaan "Save to Dropbox".
+
+![](images/10.png)
+<br><br>
+
+
+11. Valitaan Dropboxin sisältä hakemisto App ja sen alta...
+
+![](images/11.png)
+
+<br><br>
+
+12. ...hakemisto Dropbox PocketBook. Tallennetaan tiedosto (= lainattu kirja) sinne.
+
+![](images/12.png)
+<br><br>
+
+
+13. Lukulaitteen puolella valitaan "Apps" laitteen päänäkymässä.
+
+![](images/13.png)
+<br><br>
+
+
+14. Valitaan "Dropbox PocketBook".
+
+![](images/14.png)
+<br><br>
+
+15. Painetaan refresh-tyyppistä kuvaketta.
+
+![](images/15.png)
+<br><br>
+
+16. Painetaan download-tyyppistä kuvaketta.
+
+![](images/16.png)
+<br><br>
+
+17. Kun mennään lukulaitteen päänäkymään, nähdään, että kirjan siirto sujui onnistuneesti.
+
+![](images/17.png)
+<br><br>
+
+18. Laite ymmärtää, että kyseessä on lainattu kirja, ja ilmoittaa lainausajan asianmukaisesti.
+
+![](images3/WhatsApp%208.png)
+

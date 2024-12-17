@@ -1,0 +1,51 @@
+# Gutenberg-projekti ja lukulaite
+
+Gutenberg-projektin kirjojen luku onnistuu miellyttävästi ja vaivattomasti lukulaitteella seuraavasti:
+
+1.  Käynnistetään lukulaitteen internet-selain.
+2.  Surffataan halutun kirjan kohdalle Gutenberg-projektissa.
+3.  Valitaan EPUB3-muotoinen kirja.
+
+
+<br><br>
+
+Työvaiheet ovat yksityiskohtaisemmin seuraavat:
+
+
+1.  Klikkaa lukulaitteen päävalikossa Apps-kuvakkeeseen.
+
+![](images4/IMG_1222_jpg.png)
+
+<br><br>
+
+2.  Klikkaa kuvakkeeseen Browser.
+
+3.  <div>
+
+    ![](images4/IMG_1223_jpg.png)
+
+    </div>
+
+<br><br>
+
+3.  Syötä haluamasi Gutenberg-projektin kirjan URL-osoite. (Huom. Lukulaitteen WWW-selain on varsin hidas, joten haen itse mieluiten kirjan URL-osoitteen ensin kännykän WWW-selaimen kanssa esiin ja kirjoitan sitten URL-osoitteen suoraan lukulaitteen selaimeen.)
+
+![](images4/IMG_1224_jpg.png)
+
+<br><br>
+
+4.  Klikkaa EPUB3-linkkiin.
+
+![](images4/IMG_1225_jpg.png)
+
+<br><br>
+
+5.  Klikkaa \*.epub-muotoisen tiedoston nimen kohdalla.
+
+![](images4/IMG_1226_jpg.png)
+
+<br><br>
+
+6.  Kirja on tämän jälkeen heti valmis luettavaksi.
+
+![](images4/IMG_1227_HEIC.png)

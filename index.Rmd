@@ -1,0 +1,55 @@
+---
+title: "Kirjojen lainaaminen Vaskista PocketBook-lukulaitteeseen"
+documentclass: book
+output:
+  bookdown::gitbook:
+author: Ville Langén
+date: "`r format(Sys.time(), '%d.%m.%Y')`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Alkusanat
+
+Kirjojen lainaaminen Vaskista ja edelleen siirtäminen PocketBook-lukulaitteeseen on helppoa, mutta muutamia klikkauksia se vaatii. PocketBook-lukulaitteeseen siirtyy samalla tieto kirjaston asettamasta lainausajasta.
+
+Tällä WWW-sivustolla on esitelty oma workflow'ni lainaamisessa ja siirrossa.
+
+Sivuston lopussa esitellään lisäksi metodi, jolla Gutenberg-projektin kirjoja voi lukea vaivattomasti PocketBookilla.
+
+<br><br>
+
+## Tarvittavat laitteet
+
+Olen kuvannut sivustolla lainaamisen ja siirron seuraavilla laitteilla:
+
+-   iPhone
+
+-   PocketBook Touch HD 3
+
+Työvaiheet saattavat sovelletusti onnistua muillakin vastaavilla laitteilla, mutta olen kokeillut toimivuutta vain edellä mainituilla laitteilla.
+
+<br><br>
+
+## Työvaiheiden pääperiaate
+
+Lainaaminen ja siirto koostuvat kiteytetysti seuraavista vaiheista:
+
+1.  Kirjan lainaaminen iPhonella Vaskista.
+2.  Lainatun tiedoston siirtäminen iPhonella lukulaitteeseen.
+3.  Tiedoston lataaminen lukulaitteen kirjahyllyyn.
+
+<br><br>
+
+## Esitellyt metodit
+
+Sivustolla esitellään kaksi eri metodia lainatun kirjan siirtoon lukulaitteeseen:
+
+1.  Siirto iPhonella lukulaitteeseen Dropboxia hyödyntäen.
+2.  Siirto iPhonella lukulaitteeseen s-postia käyttäen.
+
+Vaihtoehto 2 eli s-postin hyödyntäminen on uskoakseni suurimmalle osalle käyttäjistä helpompi ja suoraviivaisempi.
+
+Muitakin metodeja voi olla; uskoakseni siirto voisi onnistua myös läppärin ja USB:n avulla, mutta tätä en ole itse kokeillut.

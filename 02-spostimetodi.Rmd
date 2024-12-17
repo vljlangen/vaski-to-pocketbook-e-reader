@@ -1,0 +1,39 @@
+# S-postimetodi
+
+Lainaus ja siirto tapahtuu aivan kuten yllä Dropbox-metodissa aina kohtaan 9 asti, eli tee yltä Dropbox-metodista kohdat 1-8.
+
+Tämän jälkeen:
+
+9.  Valitse taas share-kuvake.
+
+![](images3/WhatsApp.png)
+<br><br>
+
+10. Valitse tällä kertaa kuitenkin jakamisen tavaksi "Mail".
+
+![](images3/WhatsApp%202.png)
+<br><br>
+
+11. Lukulaitetta asentaessasi olet saanut pbsync.com-päätteisen s-postiosoitteen, johon voit lähettää kirjoja, jolloin ne menevät suoraan lukulaitteeseesi. Lähetä nyt kirja tähän s-postiosoitteeseesi.
+
+![](images3/WhatsApp%203.png)
+<br><br>
+
+12. Valitse laitteen päävalikosta taas "Apps" ja sen alta "Send-to-PocketBook".
+
+![](images3/WhatsApp%205.png)
+<br><br>
+
+13. Paina download-tyyppistä kuvaketta.
+
+![](images3/WhatsApp%206.png)
+<br><br>
+
+14. Kun palaat lukulaitteen päänäkymään, voit jälleen huomata, että s-postimetodillakin kirja on siirtynyt lukulaitteeseen ongelmitta.
+
+![](images3/WhatsApp%207.png)
+<br><br>
+
+15. Laite ymmärtää, että kyseessä on lainattu kirja, ja ilmoittaa lainausajan asianmukaisesti.
+
+![](images3/WhatsApp%208.png)
