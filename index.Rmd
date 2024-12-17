@@ -1,11 +1,21 @@
 ---
 title: "Kirjojen lainaaminen Vaskista PocketBook-lukulaitteeseen"
+
+---
+title: "R guide"
 documentclass: book
 output:
   bookdown::gitbook:
+    config:
+      toc:
+        scroll_highlight: yes
+        after: |
+          <li><a href="https://bookdown.org/">Proudly published with bookdown</a></li>
 author: Ville Langén
 date: "`r format(Sys.time(), '%d.%m.%Y')`"
+
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
